@@ -1,0 +1,13 @@
+{
+  "name": "guestbook-app-v2",
+  "version": "2.0.0",
+  "description": "Enhanced Guestbook Application - v2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
